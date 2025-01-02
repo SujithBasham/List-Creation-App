@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SujithBasham/List-Creation-App/static/css/main.6a206dd0.chunk.css",
+    "main.js": "/SujithBasham/List-Creation-App/static/js/main.2636103a.chunk.js",
+    "main.js.map": "/SujithBasham/List-Creation-App/static/js/main.2636103a.chunk.js.map",
+    "runtime-main.js": "/SujithBasham/List-Creation-App/static/js/runtime-main.f1e78bbd.js",
+    "runtime-main.js.map": "/SujithBasham/List-Creation-App/static/js/runtime-main.f1e78bbd.js.map",
+    "static/js/2.96887124.chunk.js": "/SujithBasham/List-Creation-App/static/js/2.96887124.chunk.js",
+    "static/js/2.96887124.chunk.js.map": "/SujithBasham/List-Creation-App/static/js/2.96887124.chunk.js.map",
+    "index.html": "/SujithBasham/List-Creation-App/index.html",
+    "static/css/main.6a206dd0.chunk.css.map": "/SujithBasham/List-Creation-App/static/css/main.6a206dd0.chunk.css.map",
+    "static/js/2.96887124.chunk.js.LICENSE.txt": "/SujithBasham/List-Creation-App/static/js/2.96887124.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1e78bbd.js",
+    "static/js/2.96887124.chunk.js",
+    "static/css/main.6a206dd0.chunk.css",
+    "static/js/main.2636103a.chunk.js"
+  ]
+}
